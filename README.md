@@ -38,11 +38,7 @@ Open your browser and visit "http://127.0.0.1:5000" to access the application;
 ## Test Cases Introduce
 - audio_[1,2,3]: The audio of people talking;
 - sine_wave_[1,2]: Sine wave signal.
-## Callbacks
-- `parse_contents`: Parses the uploaded audio file and returns the amplitude plot;
-- `set_line_color_update`: Sets the line color update status based on the confirm button clicks;
-- `update_amplitude_plot`: Updates the amplitude plot based on the uploaded audio file, confirm button clicks, and rectangle drawing;
-- `update_fft_and_inverse_plots`: Performs FFT and inverse FFT on the selected region and updates the corresponding plots.
+
 ## A few notes
 <img width="478" alt="Snipaste_2024-07-13_20-01-21" src="https://github.com/user-attachments/assets/d31abd3c-bc28-4e07-8341-2c79ed45ce0e">
 
