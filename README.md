@@ -1,8 +1,7 @@
 # Audio-Spectrogram-Viewer
 
 ## Description
-
-This project is a web application for performing amplitude analysis on audio files. It uses Flask as the web server and Dash for the interactive data visualization components. The application allows users to upload audio files, visualize their amplitude, select regions for DFT (Discrete Fourier Transform) analysis, and view inverse DFT (IDFT) plots.
+This project is a web application for visualizing audio spectrograms. It uses Flask as the web server and Dash for the interactive data visualization components. The application allows users to upload audio files, view their spectrograms, and interact with features such as moving a line in sync with audio playback, clipping sections of the audio, and generating spectrograms for these clipped segments. Users can also play back both the original and clipped audio directly within the application.
 
 ## Features
 - **Upload Audio File**: Users can upload an audio file in formats supported by `librosa`;
