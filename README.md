@@ -23,7 +23,7 @@ This project is a web application for performing amplitude analysis on audio fil
 ## Installation and run
 **Step 1:** Clone the repository:
 ```
-git clone https://github.com/kingback156/Amplitude-Analysis
+git clone https://github.com/kingback156/Audio-Spectrogram-Viewer.git
 ```
 **Step 2:** Please enter the following command in conda's virtual environment;
 ```
