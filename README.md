@@ -6,10 +6,9 @@ This project is a web application for performing amplitude analysis on audio fil
 
 ## Features
 - **Upload Audio File**: Users can upload an audio file in formats supported by `librosa`;
-- **Amplitude Plot**: The waveform of the uploaded audio file is displayed;
-- **Region Selection**: Users can select a region of the audio waveform for detailed analysis;
-- **DFT Plot**: Perform FFT on the selected region and visualize the magnitude and phase spectra；
-- **IDFT Plot**: The inverse DFT of the selected region is displayed, showing the reconstructed time domain signal.
+- **Spectrogram Plot**: The spectrogram of the uploaded audio file is displayed;
+- **Region Selection**: Users can select a region of the audio spectrogram for detailed shows;
+- **Demonstration effect**: Both full spectrograms and cropped spectrograms can experience their playback in its entirety；
 ## Screenshot display
 <table>
   <tr>
