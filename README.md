@@ -13,7 +13,6 @@ This project is a web application for visualizing audio spectrograms. It uses Fl
   <tr>
     <td><img width="1044" alt="Snipaste_2024-03-17_15-46-47" src="https://github.com/user-attachments/assets/03464b98-5675-4cf6-9ab2-5abe6f5e8677" scale=0.5></td>
     <td><img width="1057" alt="Snipaste_2024-03-17_15-47-37" src="https://github.com/user-attachments/assets/69cf870c-3c5e-47a5-83c6-ec94d160c610" scale=0.5></td>
-    <td><img width="1044" alt="Snipaste_2024-03-17_15-46-47" src="https://github.com/user-attachments/assets/d43d3366-8388-4edd-9c76-7d2e8bdd5598" scale=0.5></td>
     <td><img width="1044" alt="Snipaste_2024-03-17_15-46-47" src="https://github.com/user-attachments/assets/2727f9ae-38e1-472b-aa11-a04c3ee1f312" scale=0.5></td>
   </tr>
 </table>
